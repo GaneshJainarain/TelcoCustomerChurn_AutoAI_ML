@@ -20,6 +20,11 @@ The data set includes information about:
 To explore this type of models and learn more about the subject.
 
 
-#### Downloading our dataset
+### `Downloading our dataset`
 
 ![Dataset](env/ReadMePhotos/DatasetDownload.png)
+
+### `IBM Watson Studios`
+
+![Watson Studio](env/ReadMePhotos/IBMWatsonStudiosCreateProject.png)
+
