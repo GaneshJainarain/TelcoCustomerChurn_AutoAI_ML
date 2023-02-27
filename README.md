@@ -28,3 +28,9 @@ To explore this type of models and learn more about the subject.
 
 ![Watson Studio](env/ReadMePhotos/IBMWatsonStudiosCreateProject.png)
 
+
+`Create a new project`
+![Watson Studio](env/ReadMePhotos/NewProject.png)
+
+
+
