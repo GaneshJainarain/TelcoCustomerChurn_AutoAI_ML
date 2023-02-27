@@ -54,7 +54,7 @@ and is optimized for accuracy and runtime
 Here we can see various amounts of pipelines, each one using a different algorithm,
 at the bottom we see a comparison of the pipelines and we can see that they choose the most optimal one for our task
 
-### `Progress Map of various Pipelines`
+### `Pipeline Comparison`
 ![Pipeline Comparison](env/ReadMePhotos/Pipelines.png)
 
 Here we can see that Pipeline 4 has been chosen to be the best measured on accuracy,
