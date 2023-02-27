@@ -29,8 +29,14 @@ To explore this type of models and learn more about the subject.
 ![Watson Studio](env/ReadMePhotos/IBMWatsonStudiosCreateProject.png)
 
 
-`Create a new project`
+### `Create a new project`
 ![Watson Studio](env/ReadMePhotos/NewProject.png)
+
+### `Creating a new asset AutoAI`
+![Auto AI](env/ReadMePhotos/NewAssetAutoAI.png)
+
+
+
 
 
 
