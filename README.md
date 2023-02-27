@@ -40,8 +40,13 @@ To explore this type of models and learn more about the subject.
 ![Auto AI II](env/ReadMePhotos/CreatingOurAutoAIAsset.png)
 
 
-### `Predicting on Churn`
-![Predicting on Churn](env/ReadMePhotos/ChurnPredictData.png)
+### `Predicting on Churn with Binary Classification`
+![Predicting on Churn](env/ReadMePhotos/BinaryClasssification.png)
+
+As you can see as soon as we uploaded our dataset and selected what column 
+we wanted to predict on, the experiment automatically gave us the best
+prediction type to use on the data, in this case `Binary Classification`
+and is optimized for accuracy and runtime
 
 
 
