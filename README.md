@@ -48,6 +48,24 @@ we wanted to predict on, the experiment automatically gave us the best
 prediction type to use on the data, in this case `Binary Classification`
 and is optimized for accuracy and runtime
 
+### `Progress Map of various Pipelines`
+![Progress Map](env/ReadMePhotos/ProgressMap.png)
+
+Here we can see various amounts of pipelines, each one using a different algorithm,
+at the bottom we see a comparison of the pipelines and we can see that they choose the most optimal one for our task
+
+### `Progress Map of various Pipelines`
+![Pipeline Comparison](env/ReadMePhotos/Pipelines.png)
+
+Here we can see that Pipeline 4 has been chosen to be the best measured on accuracy,
+lets take a look inside the pipeline
+
+
+
+
+
+
+
 
 
 
