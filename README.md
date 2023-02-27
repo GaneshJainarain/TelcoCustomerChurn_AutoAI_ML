@@ -36,6 +36,14 @@ To explore this type of models and learn more about the subject.
 ![Auto AI](env/ReadMePhotos/NewAssetAutoAI.png)
 
 
+### `Creating a new asset AutoAI II`
+![Auto AI II](env/ReadMePhotos/CreatingOurAutoAIAsset.png)
+
+
+### `Predicting on Churn`
+![Predicting on Churn](env/ReadMePhotos/ChurnPredictData.png)
+
+
 
 
 
