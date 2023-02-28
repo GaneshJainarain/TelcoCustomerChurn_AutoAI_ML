@@ -73,6 +73,20 @@ of features: 34, and number of evaluation instances: 705.
 
 Here we see the Feature Summary, each feature with its respective feature importance percentage.
 
+### `Evaluation Metrics`
+![Evaluation Metrics](env/ReadMePhotos/EvaluationMetrics.png)
+
+Here we can see the Evaluation Metrics such as `ROC Curve`, 
+`Cross Validation Score`, `Precision`, `F1 Score`, etc...
+
+### `Confusion Matrix`
+![Confusion Matrix](env/ReadMePhotos/ConfussionMatrix.png)
+
+Here we see the Confusion Matrix
+
+### `Precision Recall`
+![Precision Recall](env/ReadMePhotos/PrecisionRecall.png)
+
 
 ### `Saving our Model for Deployment`
 ![Model for deployment](env/ReadMePhotos/SaveModel.png)
