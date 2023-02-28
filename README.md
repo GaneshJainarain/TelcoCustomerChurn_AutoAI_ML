@@ -60,6 +60,24 @@ at the bottom we see a comparison of the pipelines and we can see that they choo
 Here we can see that Pipeline 4 has been chosen to be the best measured on accuracy,
 lets take a look inside the pipeline
 
+### `Pipeline Analysis I`
+![Pipeline Analysis I](env/ReadMePhotos/PipelineAnalysis1.png)
+
+Here we see the basic information of our Pipeline including
+the algorithm is used: Random Forest Classifier, the number
+of features: 34, and number of evaluation instances: 705.
+
+
+### `Pipeline Analysis II`
+![Pipeline Analysis II](env/ReadMePhotos/PipelineAnalysis2.png)
+
+Here we see the Feature Summary, each feature with its respective feature importance percentage.
+
+
+### `Saving our Model for Deployment`
+![Model for deployment](env/ReadMePhotos/SaveModel.png)
+
+
 
 
 
